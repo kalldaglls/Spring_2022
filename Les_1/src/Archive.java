@@ -1,5 +1,3 @@
-package New;
-
 import org.springframework.stereotype.Component;
 
 @Component("archive")
